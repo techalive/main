@@ -22,7 +22,7 @@ The project is divided into several packages:
 
 ## Screenshots
 ![Example screenshot](./img/encryption.png)
-		---
+		--->
 ![Example screenshot](./img/decryption.png)
 
 ## Technologies
@@ -46,8 +46,8 @@ The `main` method of running the program uses the `SwingUtilities.invokeLater` m
 List of features ready:
 * Encryption & Decryption options parallely.
 * Creates a list with 30 algorithms in the form JOptionPane:
-     `JAlgorithmList algorithmList = new JAlgorithmList (this);
-     getContentPane (). add (algorithmList);`
+Â Â Â Â  `JAlgorithmList algorithmList = new JAlgorithmList (this);
+Â Â Â Â  getContentPane (). add (algorithmList);`
 * Warning messages for other critical fields.
 
 ## Status
