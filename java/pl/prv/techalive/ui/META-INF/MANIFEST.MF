@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.3.9
+Built-By: techalive
+Build-Jdk: 9
+Class-Path: lib/bcprov-jdk15on-1.59.jar
+Main-Class: pl.techalive.Runner
+
