@@ -1,5 +1,5 @@
 # Encryption & Decryption application
-> Encrypt & Decrypt plain text uses 30 different hashes algorithms. This application is graphic UI and uses SWING Java library.
+> Encrypt & Decrypt plain text uses 30 different hashes algorithms. This application has graphic UI and uses SWING Java library.
 
 ## Table of contents
 * [General info](#general-info)
